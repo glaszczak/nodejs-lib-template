@@ -1,9 +1,10 @@
 {
   "compilerOptions": {
+    "declaration": true,
     "baseUrl": "./src",                                  
     "target": "ES2022", 
     "module": "commonjs", 
-    "outDir": "./build",  
+    "outDir": "./dist",  
     "sourceMap": true, 
     "removeComments": true, 
     "strict": true,
